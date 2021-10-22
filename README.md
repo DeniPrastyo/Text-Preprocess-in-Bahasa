@@ -1,6 +1,6 @@
 # Text-Preprocess-in-Bahasa
 Data is data crawling from the Twitter with query "Vaksin Covid-19".
-!pip install nltk
+!pip install nltk.
 !pip install emoji
 !pip install Sastrawi
 !pip install regex
